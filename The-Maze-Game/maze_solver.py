@@ -1,5 +1,5 @@
 # Aabjosh Singh
-# The Maze Game - CS PROJECT (3UI)
+# The Maze Game - Open End Project
 # Maze solving file
 
 # Init variables to be empty
