@@ -1,5 +1,5 @@
 # Aabjosh Singh
-# The Maze Game - CS PROJECT (3UI)
+# The Maze Game - Open End Project
 # Pygame output file
 
 # Imports pygame, time for debounce, and custom files for use
