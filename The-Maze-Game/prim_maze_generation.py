@@ -1,5 +1,5 @@
 # Aabjosh Singh
-# The Maze Game - CS PROJECT (3UI)
+# The Maze Game - Open End Project
 # File that generates mazes
 
 # X AND Y VARIABLES MEAN X-LENGHT, Y-HEIGHT
