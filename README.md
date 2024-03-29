@@ -18,6 +18,7 @@ This file is very straight forward in that it is the backbone of the game. Here,
 - Custom:
 
   A custom and random maze generated between widths and lengths of 5u -> 300u
+
 The game keeps track of every completed maze of each category, and sorts the completions by percentage score, calculated as the total number of correct positions divided by the number of moves taken. Upon completion of a maze, the score is displayed in green, yellow, or red, corresponding to the magnitude of accuracy (descending respectively). Scores are not saved in a .json or .txt after termination - no information is saved.
 
 Controls and functionality are outlined in the game...
