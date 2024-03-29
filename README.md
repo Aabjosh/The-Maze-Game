@@ -30,5 +30,5 @@ Essentially, this file uses a modified a-star algorithm to determine a manhattan
 ### prim_maze_generation.py
 To be written...
 
-###Functionality Notes:
+## Functionality Notes
 To be written...
